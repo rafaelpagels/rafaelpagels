@@ -107,7 +107,7 @@ Busco construir uma base sólida para atuação inicial em Análise de Dados, co
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
