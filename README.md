@@ -2,7 +2,7 @@
 
 **`Estudante de ADS | GenAI & Dados | Python | Neo4j`**
 
-Me chamo Rafael Pagels, tenho 24 anos e sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre), com foco em Dados e IA Generativa.
+Me chamo Rafael Pagels, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre), com foco em Dados e IA Generativa.
 
 Atualmente, estudo e aplico conceitos de Python voltados ao tratamento de dados, além de modelagem e análise de dados em grafos com Neo4j. Também tenho contato com fundamentos de IA Generativa, sempre buscando aplicações práticas orientadas a dados.
 
